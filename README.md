@@ -30,4 +30,4 @@ Pull requests are welcome. For major changes, please open an issue first.
 ---
 
 ### 📬 Contact
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+Made with ❤️ by [Challa Chaitanya Phani](https://github.com/chaitanyaiscoding)
